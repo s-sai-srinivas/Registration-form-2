@@ -1,0 +1,29 @@
+#registration-form{
+    color: black;
+    padding: 20px;
+    border: solid blue;
+    width: 800px;
+    margin: 20px auto;
+    border-radius: 20px;
+    box-shadow: 20px 5px 5px 10px black;
+    text-decoration: solid rgb(230, 0, 0);
+}
+.registration-form{
+	width: 800px;
+  margin: 5px auto;
+  justify-content: center;
+}
+#Gender{
+margin: 0 0 0 550px;
+padding: 20px;
+}
+#con{
+    margin: 0px 220px;
+}
+h1{
+    background: rgb(75, 60, 207);
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+    width: 75%;
+}
